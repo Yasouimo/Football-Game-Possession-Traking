@@ -1,4 +1,4 @@
-# Football Game Analysis 
+# Football Game Analysis
 
 ## Brief Description 
 This project is designed to analyze football (soccer) game footage using computer vision and machine learning techniques. It tracks players and the ball, assigns teams to players, and identifies which team has possession of the ball at any given time. The output is an annotated video with visualizations of player movements, team assignments, and ball possession.
